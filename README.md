@@ -1,6 +1,6 @@
 <!-- Storyboard assignment -->
 <section class="assign">
-<img src="images/my-storyboard.jpg" />
+<img src="images/Storyboard.pdf" />
 <section class="assign-det">
 <a href="files/all-storyboards.pdf"><h2>Team Storyboards: [Jim Morrison]</h2></a>
 <p>
